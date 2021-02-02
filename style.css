@@ -14,10 +14,22 @@
 
 .headline {
   padding: 20px 0 0 20px;
-  color: rgb(82, 80, 80);
 }
 
 main {
   width: 840px;
-  margin: 50px 0 50px 0;
+  margin: 50px auto;
+}
+
+h2 {
+  list-style: none;
+}
+.service1 {
+  padding-bottom: 30px;
+  border-bottom: 1px solid gray;
+}
+
+.service2- {
+  padding: 30px 0 30px 0;
+  border-bottom: 1px solid gray;
 }
